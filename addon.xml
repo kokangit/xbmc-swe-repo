@@ -6,7 +6,7 @@
   <extension point="xbmc.addon.repository" name="Repository for swedish addons">
     <info compressed="false">https://raw.githubusercontent.com/kokangit/xbmc-swe-repo/master/addons.xml</info>
     <checksum>https://raw.githubusercontent.com/kokangit/xbmc-swe-repo/master/addons.xml.md5</checksum>
-    <datadir zip="true">https://github.com/kokangit/xbmc-swe-repo/raw/master</datadir>
+    <datadir zip="true">http://raw.github.com/kokangit/xbmc-swe-repo/master</datadir>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Repo for swedish addons</summary>

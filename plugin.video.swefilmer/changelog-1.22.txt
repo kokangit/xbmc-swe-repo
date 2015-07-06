@@ -1,3 +1,8 @@
+Version 1.22
+------------
+Follow up redirect in video url
+save_file from loca settings
+
 Version 1.21
 ------------
 Fixed resolver

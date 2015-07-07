@@ -1,3 +1,8 @@
+Version 1.23
+------------
+Error handling get_url
+Corrected sorting qualities
+
 Version 1.22
 ------------
 Follow up redirect in video url

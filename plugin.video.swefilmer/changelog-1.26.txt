@@ -1,3 +1,8 @@
+Version 1.26
+------------
+fixed quality selection
+fixed som resolvings
+
 Version 1.25
 ------------
 Site changed url

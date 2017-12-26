@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.swe"
        name="swedish repository"
-       version="0.1"
+       version="0.3"
        provider-name="kokangit">
   <extension point="xbmc.addon.repository" name="Repository for swedish addons">
     <info compressed="false">https://raw.githubusercontent.com/kokangit/xbmc-swe-repo/master/addons.xml</info>
